@@ -5,6 +5,6 @@ It supports **animations, window management, keyboard/mouse input, and basic gra
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/brave/TermGUI.git
+git clone https://github.com/mightymega/TermGUI.git
 cd TermGUI
 pip install .
